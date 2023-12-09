@@ -1,2 +1,2 @@
 # Opinion-and-Misinformation-Mining-in-Political-Tweets
-My university graduation project
+My main objective on this project was to study and test the large NLP language models currently appearing in the specialized literature, through fine-tuning, on the data extracted from the Twitter platform, about the political field in particular. The secondary objective is to display the results in a web portal, so that the best-performing models obtained can be easily tested by the user on their own data, as well as unlabeled public tweets that address the problem a political propaganda.
